@@ -1,0 +1,20 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "json server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "json",
+    "server"
+  ],
+  "author": "Cong Huy Nguyen",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "query-string": "^7.0.1"
+  }
+}
